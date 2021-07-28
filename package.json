@@ -1,0 +1,13 @@
+{
+  "name": "json-js-convert",
+  "version": "1.0.0",
+  "description": "Convert json to js and output it",
+  "main": "jsc.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
